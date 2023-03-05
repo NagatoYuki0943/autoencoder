@@ -78,4 +78,3 @@ PDF来源于本人的理解+整理，部分图片来源于网上，已有标注�
   <img src="https://github.com/Nana0606/autoencoder/blob/master/imgs/convAe_accuracy.png" width="45%" alt="卷积自动编码器accuracy变化"/>
   <img src="https://github.com/Nana0606/autoencoder/blob/master/imgs/convAe_loss.png" width="45%" alt="卷积自动编码器loss变化"/>
 </div>
-
